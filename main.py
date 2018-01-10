@@ -1,4 +1,4 @@
-""" LoPy LoRaWAN Nano Gateway example usage """
+""" This is a LoPy LoRaWAN Nano Gateway example usage """
 
 import config
 from nanogateway import NanoGateway
